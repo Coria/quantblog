@@ -1,0 +1,4 @@
+baseURL = 'https://blog.coria.top/'
+languageCode = 'en-us'
+title = 'Quant Blog'
+theme = 'ananke'
