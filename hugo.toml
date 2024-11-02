@@ -1,4 +1,4 @@
-baseURL = 'https://blog.coria.top/'
+baseURL = 'https://quantblog.pages.dev/'
 languageCode = 'en-us'
 title = 'Quant Blog'
 theme = 'ananke'
